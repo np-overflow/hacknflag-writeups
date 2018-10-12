@@ -6,6 +6,8 @@ We are given C,N and e yet again.
 
 So let's try to find all the primes. We can use yafu to find all primes of N.
 
+Using factor(value of N) in yafu will return all factor. Those labeled P10 are primes. Factor all non P10 to P10 to get complete list of primes.
+
 After we get all primes of N, we can continue on to calculate phi(n).
 
 phi(n) can be calculated by the formula of (p-1) * (q-1) * (r-1) * (s-1) and so on.
