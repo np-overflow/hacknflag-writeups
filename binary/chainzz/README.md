@@ -2,7 +2,7 @@
 
 To be able to solve this, you would need to read up on the writeup for r0pbaby
 
-You will also need to understand how arguments are passed when calling functions: (x86 calling conventions)[https://en.wikipedia.org/wiki/X86_calling_conventions]
+You will also need to understand how arguments are passed when calling functions: [x86 calling conventions](https://en.wikipedia.org/wiki/X86_calling_conventions)
 
 For this challenge, we can see that the `vuln()` function is again using the vulnerable `gets` function.
 
