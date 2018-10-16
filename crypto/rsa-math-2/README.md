@@ -4,9 +4,9 @@ This is a multi prime RSA challenge.
 
 We are given C,N and e yet again.
 
-So let's try to find all the primes. We can use yafu to find all primes of N.
+So let's try to find all the primes. We can use `yafu` to find all primes of N.
 
-Using factor(value of N) in yafu will return all factor. Those labeled P10 are primes. Factor all non P10 to P10 to get complete list of primes.
+Using factor(value of N) in `yafu` will return all factor. Those labeled P10 are primes. Factor all non P10 to P10 to get complete list of primes.
 
 After we get all primes of N, we can continue on to calculate phi(n).
 
