@@ -2,7 +2,7 @@
 
 This challenge is about hiding data in the Least Significant Bit(lsb) of an image.
 
-To solve this challenge, open the image in stegsolve.
+To solve this challenge, open the image in `stegsolve`.
 
 Navigate to blue pane 0 and you will notice that it looks like plain cancer.
 
