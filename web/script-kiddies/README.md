@@ -10,7 +10,7 @@ Most participants solved this by analyzing the javascript in the page source.
 
 However, there is a much simpler way to do solve this challenge.
 
-You can simply call the getflag function from the developer's console for the flag.
+You can simply call the `getflag` function from the developer's console for the flag.
 
 ![getflag function](getflag.png)
 
