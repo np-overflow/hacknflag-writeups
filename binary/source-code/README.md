@@ -1,6 +1,6 @@
 # Source Code
 
-To be able to solve this challenge, you would need to know that compiling an exe from python source code is not a very good idea.
+To be able to solve this challenge, you would need to know that compiling an exe from python source code is not a good idea for source protection.
 
 If compiled using pyinstaller or py2exe, there are numerous tools to reverse the compilation.
 
@@ -10,9 +10,9 @@ Run `$ python pyinstxtractor.py give-me-the-flag.exe`
 
 Then navigate to the extracted folder and you should see the give-me-the-flag file.
 
-Running `$ file give-me-the-flag` would tell us that it is a data file.
+Running `$ file give-me-the-flag` would reveal that it is a data file.
 
-We can simply open the file and look for the flag using `$ strings give-me-the-flag | grep HNF`
+Simply open the file and look for the flag using `$ strings give-me-the-flag | grep HNF`
 
 ## flag
 
