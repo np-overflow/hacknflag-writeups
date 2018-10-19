@@ -30,7 +30,7 @@ We can conclude that that address is the GOT address of the `puts` function.
 
 Now for the exploit let's change the value of that address to that of the `win` function.
 
-When it requests for the location at which to write the value, we send in the address that contains the GOT address, '0x804a00c'.
+When it requests for the location at which to write the value, we send in the address that contains the GOT address, `0x804a00c`.
 
 Then, when it requests for the value to write to it, we send in the address of `win`, `0x08048566`. 
 
