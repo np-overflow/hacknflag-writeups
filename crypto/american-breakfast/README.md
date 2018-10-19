@@ -2,9 +2,11 @@
 
 This challenge is actually a custom bacon cipher. 
 
-Instead of A and B, I used T and R.
+Instead of A and B, T and R are used.
 
-Modify the bacon cipher look up table to T and R and decode it. For the ones that are not in the lookup table, you can guess the characters as they are { , } or _
+Modify the bacon cipher look up table to T and R and decode it. 
+
+For the ones that are not in the lookup table, you can guess the characters as they are { , } or _
 
 ## flag
 
