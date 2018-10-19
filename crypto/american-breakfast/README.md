@@ -2,7 +2,7 @@
 
 This challenge is actually a custom bacon cipher. 
 
-Instead of A and B, T and R is used.
+Instead of A and B, T and R are used.
 
 Modify the bacon cipher look up table to T and R and decode it. 
 
