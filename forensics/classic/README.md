@@ -12,3 +12,4 @@ The flag will then be read out to you.
 
 `HNF{a4udio_steg}`
 
+I apologize that the flag sounded more like `HNF{4udio_steg}` and causing some confusion
