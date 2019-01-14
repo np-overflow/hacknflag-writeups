@@ -2,7 +2,7 @@
 
 This is one of the hardest challenges for the CTF under the forensics category.
 
-To solve this, `pkcrack` is needed. If you though `fcrackzip` was the way, I'm sorry it's not.
+To solve this, `pkcrack` is needed. If you thought `fcrackzip` was the way, I'm sorry it's not.
 
 `$ ./pkcrack -C [path to encrypted zip file] -c encrypted/story.txt -P [path to unencrypted zip file] -p unencrypted/story.txt`
 
